@@ -4,7 +4,7 @@
 //Space Complexity: O(1)
 
 import java.util.Arrays;
-public class Main {
+public class AggressiveCows{
     public static int aggressiveCows(int[] arr, int k) {
         Arrays.sort(arr);
 
