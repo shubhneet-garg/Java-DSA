@@ -7,8 +7,9 @@
 // 1. Use two pointers: one at the beginning and one at the end.
 // 2. Compare characters while moving both pointers inward.
 // 3. If any pair doesn't match, return false; otherwise return true.
-
-class Solution {
+package String.Basic;
+import java.util.*;
+class palindrome {
     public boolean isPalindrome(String s) {
 
         int left = 0;

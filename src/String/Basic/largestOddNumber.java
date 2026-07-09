@@ -7,8 +7,9 @@
 // 1. Traverse the string from right to left.
 // 2. Find the first odd digit.
 // 3. Return the substring from index 0 to that digit; otherwise return "".
-
-class Solution {
+package String.Basic;
+import java.util.*;
+class largestoddnumber {
     public String largestOddNumber(String num) {
 
         for (int i = num.length() - 1; i >= 0; i--) {

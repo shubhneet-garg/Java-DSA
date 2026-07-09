@@ -8,8 +8,9 @@
 // 2. Create buckets where bucket[i] stores all characters having frequency i.
 // 3. Traverse the buckets from highest frequency to lowest.
 // 4. Append each character frequency number of times to build the answer.
-
-class Solution {
+package String.Medium;
+import java.util.*;
+class FrequencySort {
     public String frequencySort(String s) {
 
         // Step 1: Count frequency of each character

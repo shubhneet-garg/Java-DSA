@@ -7,8 +7,9 @@
 // 1. Assume the first string is the common prefix.
 // 2. Compare it with every other string and keep reducing the prefix.
 // 3. Return the remaining common prefix.
-
-class Solution {
+package String.Basic;
+import java.util.*;
+class longestprefix {
     public String longestCommonPrefix(String[] strs) {
 
         String prefix = strs[0];

@@ -7,8 +7,9 @@
 // 1. Use two arrays to store the mapping from s -> t and t -> s.
 // 2. If a mapping already exists and doesn't match, return false.
 // 3. If the traversal completes, the strings are isomorphic.
-
-class Solution {
+package String.Basic;
+import java.util.*;
+class Isomorphic {
     public boolean isIsomorphic(String s, String t) {
 
         int[] mapST = new int[256];

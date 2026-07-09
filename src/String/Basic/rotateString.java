@@ -7,8 +7,9 @@
 // 1. If the lengths are different, return false.
 // 2. Concatenate the original string with itself.
 // 3. If goal is a substring of the concatenated string, return true.
-
-class Solution {
+package String.Basic;
+import java.util.*;
+class rotatestring {
     public boolean rotateString(String s, String goal) {
 
         if (s.length() != goal.length()) {

@@ -8,8 +8,9 @@
 // 2. Count the frequency of each character in the first string.
 // 3. Decrease the frequency using the second string.
 // 4. If all frequencies become 0, the strings are anagrams.
-
-class Solution {
+package String.Basic;
+import java.util.*;
+class IsAnagram {
     public boolean isAnagram(String s, String t) {
 
         if (s.length() != t.length()) {

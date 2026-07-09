@@ -7,8 +7,9 @@
 // 1. Traverse the string while maintaining the depth (open count).
 // 2. Append '(' only if it is not the outermost opening parenthesis.
 // 3. Append ')' only if it is not the outermost closing parenthesis.
-
-class Solution {
+package String.Basic;
+import java.util.*;
+class removeParentheses {
     public String removeOuterParentheses(String s) {
 
         StringBuilder ans = new StringBuilder();
