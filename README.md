@@ -17,5 +17,14 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/shubhneet-garg/Java-DSA/tree/master/0205-isomorphic-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
