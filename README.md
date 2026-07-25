@@ -29,6 +29,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/shubhneet-garg/Java-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -41,6 +42,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/shubhneet-garg/Java-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0260-single-number-iii) |
