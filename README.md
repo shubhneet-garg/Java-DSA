@@ -42,6 +42,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0078-subsets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0260-single-number-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/shubhneet-garg/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubhneet-garg/Java-DSA/tree/master/0050-powx-n) |
+| [1486-xor-operation-in-an-array](https://github.com/shubhneet-garg/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
