@@ -10,6 +10,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0626-exchange-seats](https://github.com/shubhneet-garg/Java-DSA/tree/master/0626-exchange-seats) |
 | [1174-immediate-food-delivery-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1211-queries-quality-and-percentage](https://github.com/shubhneet-garg/Java-DSA/tree/master/1211-queries-quality-and-percentage) |
+| [1341-movie-rating](https://github.com/shubhneet-garg/Java-DSA/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/shubhneet-garg/Java-DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1934-confirmation-rate](https://github.com/shubhneet-garg/Java-DSA/tree/master/1934-confirmation-rate) |
 ## Hash Table
