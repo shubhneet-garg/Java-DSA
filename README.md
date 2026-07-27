@@ -6,6 +6,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/shubhneet-garg/Java-DSA/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/shubhneet-garg/Java-DSA/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/shubhneet-garg/Java-DSA/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/shubhneet-garg/Java-DSA/tree/master/0596-classes-with-at-least-5-students) |
