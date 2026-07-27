@@ -14,6 +14,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [1211-queries-quality-and-percentage](https://github.com/shubhneet-garg/Java-DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1321-restaurant-growth](https://github.com/shubhneet-garg/Java-DSA/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/shubhneet-garg/Java-DSA/tree/master/1341-movie-rating) |
+| [1527-patients-with-a-condition](https://github.com/shubhneet-garg/Java-DSA/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/shubhneet-garg/Java-DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/shubhneet-garg/Java-DSA/tree/master/1667-fix-names-in-a-table) |
 | [1934-confirmation-rate](https://github.com/shubhneet-garg/Java-DSA/tree/master/1934-confirmation-rate) |
