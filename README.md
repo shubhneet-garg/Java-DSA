@@ -12,6 +12,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0596-classes-with-at-least-5-students](https://github.com/shubhneet-garg/Java-DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/shubhneet-garg/Java-DSA/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/shubhneet-garg/Java-DSA/tree/master/0626-exchange-seats) |
+| [1164-product-price-at-a-given-date](https://github.com/shubhneet-garg/Java-DSA/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1211-queries-quality-and-percentage](https://github.com/shubhneet-garg/Java-DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1321-restaurant-growth](https://github.com/shubhneet-garg/Java-DSA/tree/master/1321-restaurant-growth) |
