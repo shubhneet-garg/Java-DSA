@@ -15,6 +15,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [1174-immediate-food-delivery-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1211-queries-quality-and-percentage](https://github.com/shubhneet-garg/Java-DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1321-restaurant-growth](https://github.com/shubhneet-garg/Java-DSA/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/shubhneet-garg/Java-DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/shubhneet-garg/Java-DSA/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/shubhneet-garg/Java-DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/shubhneet-garg/Java-DSA/tree/master/1527-patients-with-a-condition) |
