@@ -27,6 +27,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/shubhneet-garg/Java-DSA/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
@@ -55,6 +56,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/shubhneet-garg/Java-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0136-single-number) |
