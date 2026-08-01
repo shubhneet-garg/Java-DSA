@@ -29,6 +29,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0001-two-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/shubhneet-garg/Java-DSA/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0078-subsets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/shubhneet-garg/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Array
@@ -67,6 +69,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0136-single-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhneet-garg/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shubhneet-garg/Java-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0605-can-place-flowers) |
@@ -76,6 +79,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubhneet-garg/Java-DSA/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/shubhneet-garg/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
@@ -101,11 +105,13 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhneet-garg/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
