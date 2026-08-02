@@ -41,6 +41,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhneet-garg/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
+| [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -74,12 +75,14 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubhneet-garg/Java-DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/shubhneet-garg/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
@@ -118,4 +121,8 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
