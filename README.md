@@ -33,6 +33,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shubhneet-garg/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shubhneet-garg/Java-DSA/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/shubhneet-garg/Java-DSA/tree/master/0205-isomorphic-strings) |
@@ -125,4 +126,8 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shubhneet-garg/Java-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
