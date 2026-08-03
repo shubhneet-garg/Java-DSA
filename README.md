@@ -76,6 +76,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0283-move-zeroes](https://github.com/shubhneet-garg/Java-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
@@ -134,6 +135,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0020-valid-parentheses](https://github.com/shubhneet-garg/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shubhneet-garg/Java-DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -142,4 +144,5 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
