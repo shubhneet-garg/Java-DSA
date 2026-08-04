@@ -41,6 +41,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhneet-garg/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
@@ -69,6 +70,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0015-3sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0018-4sum) |
 | [0051-n-queens](https://github.com/shubhneet-garg/Java-DSA/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhneet-garg/Java-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
@@ -102,6 +104,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0860-lemonade-change) |
