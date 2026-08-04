@@ -44,6 +44,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhneet-garg/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
+| [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0605-can-place-flowers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
+| [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
 |  |
@@ -136,6 +138,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0155-min-stack](https://github.com/shubhneet-garg/Java-DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
 | ------- |
@@ -145,4 +148,5 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
