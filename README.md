@@ -82,6 +82,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/shubhneet-garg/Java-DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -144,6 +145,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0155-min-stack](https://github.com/shubhneet-garg/Java-DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/shubhneet-garg/Java-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhneet-garg/Java-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -167,4 +169,8 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/shubhneet-garg/Java-DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
