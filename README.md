@@ -42,6 +42,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhneet-garg/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/shubhneet-garg/Java-DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0078-subsets) |
@@ -116,6 +118,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0015-3sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhneet-garg/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shubhneet-garg/Java-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
@@ -145,6 +148,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhneet-garg/Java-DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhneet-garg/Java-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/shubhneet-garg/Java-DSA/tree/master/0155-min-stack) |
@@ -161,6 +165,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhneet-garg/Java-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shubhneet-garg/Java-DSA/tree/master/0402-remove-k-digits) |
