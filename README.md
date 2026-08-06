@@ -71,6 +71,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0001-two-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
@@ -111,6 +112,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/shubhneet-garg/Java-DSA/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/shubhneet-garg/Java-DSA/tree/master/0402-remove-k-digits) |
@@ -121,6 +123,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
