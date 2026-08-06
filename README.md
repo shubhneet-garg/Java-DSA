@@ -77,6 +77,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/shubhneet-garg/Java-DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/shubhneet-garg/Java-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhneet-garg/Java-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
@@ -127,6 +128,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0015-3sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/shubhneet-garg/Java-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhneet-garg/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shubhneet-garg/Java-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
@@ -141,6 +143,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0015-3sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/shubhneet-garg/Java-DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -211,4 +214,12 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0239-sliding-window-maximum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shubhneet-garg/Java-DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shubhneet-garg/Java-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
