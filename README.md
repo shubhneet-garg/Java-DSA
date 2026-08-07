@@ -32,6 +32,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0205-isomorphic-strings](https://github.com/shubhneet-garg/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0735-asteroid-collision](https://github.com/shubhneet-garg/Java-DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -208,6 +210,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhneet-garg/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
