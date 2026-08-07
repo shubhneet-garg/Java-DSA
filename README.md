@@ -36,6 +36,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0904-fruit-into-baskets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhneet-garg/Java-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
@@ -115,6 +117,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0050-powx-n](https://github.com/shubhneet-garg/Java-DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/shubhneet-garg/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
@@ -225,6 +228,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0567-permutation-in-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -246,4 +250,5 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
