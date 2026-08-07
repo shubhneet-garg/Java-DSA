@@ -31,6 +31,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhneet-garg/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/shubhneet-garg/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubhneet-garg/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0567-permutation-in-string) |
@@ -44,6 +45,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/shubhneet-garg/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/shubhneet-garg/Java-DSA/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubhneet-garg/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -218,6 +220,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhneet-garg/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubhneet-garg/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0904-fruit-into-baskets) |
