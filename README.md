@@ -86,6 +86,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0134-gas-station](https://github.com/shubhneet-garg/Java-DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhneet-garg/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
@@ -140,6 +141,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhneet-garg/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -209,6 +211,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhneet-garg/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -231,5 +234,6 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
