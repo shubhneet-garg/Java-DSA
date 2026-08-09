@@ -35,6 +35,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/shubhneet-garg/Java-DSA/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -107,6 +108,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/shubhneet-garg/Java-DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/shubhneet-garg/Java-DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
@@ -140,6 +142,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0402-remove-k-digits](https://github.com/shubhneet-garg/Java-DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/shubhneet-garg/Java-DSA/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Two Pointers
@@ -171,6 +174,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhneet-garg/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/shubhneet-garg/Java-DSA/tree/master/0621-task-scheduler) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
@@ -248,6 +252,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhneet-garg/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/shubhneet-garg/Java-DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -271,6 +276,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/shubhneet-garg/Java-DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Quickselect
 |  |
