@@ -6,7 +6,7 @@ class Solution {
             else if(ch == '[') st.push(']');
             else if(ch == '{') st.push('}');
             else{
-                if(st.isEmpty() || st.pop() != ch) return false;
+                if(st.isEmpty() || ch != st.pop()) return false;
             }
         }
         return st.isEmpty();
