@@ -7,15 +7,15 @@ class Solution {
                 five++;
             }else if(bill == 10){
                 if(five == 0) return false;
-                ten++;
                 five--;
+                ten++;
             }else{
-                if(ten > 0 && five > 0){
-                    ten--;
-                    five--;
-                }else if(five >= 3){
+                if (ten > 0 && five > 0){ten--;five--;}
+                else if(five >= 3){
                     five -= 3;
-                }else return false;
+                }else{
+                    return false;
+                }
             }
         }
         return true;
