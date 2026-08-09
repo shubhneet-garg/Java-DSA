@@ -283,4 +283,8 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhneet-garg/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shubhneet-garg/Java-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
