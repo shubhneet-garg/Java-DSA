@@ -30,6 +30,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0001-two-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhneet-garg/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/shubhneet-garg/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhneet-garg/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -100,6 +101,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhneet-garg/Java-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhneet-garg/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/shubhneet-garg/Java-DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0136-single-number) |
@@ -189,6 +191,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhneet-garg/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Game Theory
 |  |
@@ -308,6 +311,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -340,6 +344,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0144-binary-tree-preorder-traversal) |
