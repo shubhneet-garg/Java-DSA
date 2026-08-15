@@ -126,6 +126,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0992-subarrays-with-k-different-integers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1306-jump-game-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1306-jump-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhneet-garg/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhneet-garg/Java-DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -346,6 +347,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0513-find-bottom-left-tree-value](https://github.com/shubhneet-garg/Java-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -380,6 +382,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0199-binary-tree-right-side-view](https://github.com/shubhneet-garg/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/shubhneet-garg/Java-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1306-jump-game-iii) |
 ## DP on Trees
 |  |
 | ------- |
