@@ -38,6 +38,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/shubhneet-garg/Java-DSA/tree/master/0621-task-scheduler) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -167,6 +168,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0283-move-zeroes](https://github.com/shubhneet-garg/Java-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0567-permutation-in-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -330,6 +332,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0450-delete-node-in-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/shubhneet-garg/Java-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -350,6 +353,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/shubhneet-garg/Java-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1306-jump-game-iii) |
 ## Binary Tree
@@ -374,6 +378,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0450-delete-node-in-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/shubhneet-garg/Java-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -386,6 +391,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shubhneet-garg/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/shubhneet-garg/Java-DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1306-jump-game-iii) |
 ## DP on Trees
@@ -413,6 +419,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
