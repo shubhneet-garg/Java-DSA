@@ -314,6 +314,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -341,6 +342,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhneet-garg/Java-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -360,6 +362,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -416,6 +419,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0450-delete-node-in-a-bst) |
