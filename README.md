@@ -62,6 +62,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/shubhneet-garg/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhneet-garg/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -138,6 +139,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubhneet-garg/Java-DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/shubhneet-garg/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -429,4 +431,8 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0700-search-in-a-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shubhneet-garg/Java-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
