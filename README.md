@@ -69,6 +69,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/shubhneet-garg/Java-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0213-house-robber-ii) |
+| [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
@@ -121,6 +122,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/shubhneet-garg/Java-DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/shubhneet-garg/Java-DSA/tree/master/0735-asteroid-collision) |
@@ -437,4 +439,12 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shubhneet-garg/Java-DSA/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
