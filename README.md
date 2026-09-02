@@ -21,6 +21,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0626-exchange-seats](https://github.com/shubhneet-garg/Java-DSA/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/shubhneet-garg/Java-DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1158-market-analysis-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/shubhneet-garg/Java-DSA/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1211-queries-quality-and-percentage](https://github.com/shubhneet-garg/Java-DSA/tree/master/1211-queries-quality-and-percentage) |
