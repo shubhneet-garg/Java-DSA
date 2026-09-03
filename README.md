@@ -37,6 +37,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [1667-fix-names-in-a-table](https://github.com/shubhneet-garg/Java-DSA/tree/master/1667-fix-names-in-a-table) |
 | [1934-confirmation-rate](https://github.com/shubhneet-garg/Java-DSA/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/shubhneet-garg/Java-DSA/tree/master/1978-employees-whose-manager-left-the-company) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shubhneet-garg/Java-DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
 |  |
 | ------- |
