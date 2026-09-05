@@ -76,6 +76,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/shubhneet-garg/Java-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shubhneet-garg/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhneet-garg/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -159,6 +160,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubhneet-garg/Java-DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/shubhneet-garg/Java-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shubhneet-garg/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
@@ -463,4 +465,8 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shubhneet-garg/Java-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
