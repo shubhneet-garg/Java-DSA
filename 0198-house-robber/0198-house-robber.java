@@ -3,11 +3,13 @@ class Solution {
         int prev2 = 0;
         int prev1 = 0;
         for(int num : nums){
-            int total = num + prev2;
-            int current = Math.max(prev1, total);
+            int take = num + prev2;
+            int nottake = prev1;
+
+            int curr = Math.max(take, nottake);
 
             prev2 = prev1;
-            prev1 = current;
+            prev1 = curr;
         }
         return prev1;
     }
