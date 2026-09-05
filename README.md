@@ -77,6 +77,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shubhneet-garg/Java-DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shubhneet-garg/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhneet-garg/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,6 +118,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shubhneet-garg/Java-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shubhneet-garg/Java-DSA/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/shubhneet-garg/Java-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhneet-garg/Java-DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -270,6 +272,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
