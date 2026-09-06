@@ -87,6 +87,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/shubhneet-garg/Java-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/shubhneet-garg/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
@@ -141,6 +142,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0260-single-number-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shubhneet-garg/Java-DSA/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
@@ -427,6 +429,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shubhneet-garg/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/shubhneet-garg/Java-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -468,10 +471,12 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
 ## Combinatorics
 |  |
