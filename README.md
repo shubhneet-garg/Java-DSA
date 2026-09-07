@@ -88,6 +88,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0198-house-robber](https://github.com/shubhneet-garg/Java-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/shubhneet-garg/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
@@ -98,6 +99,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0051-n-queens](https://github.com/shubhneet-garg/Java-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,6 +146,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0283-move-zeroes](https://github.com/shubhneet-garg/Java-DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
@@ -472,6 +475,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -482,4 +486,8 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shubhneet-garg/Java-DSA/tree/master/0062-unique-paths) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
