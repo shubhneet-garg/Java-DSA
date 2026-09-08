@@ -93,6 +93,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0746-min-cost-climbing-stairs](https://github.com/shubhneet-garg/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhneet-garg/Java-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Backtracking
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1306-jump-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhneet-garg/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhneet-garg/Java-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhneet-garg/Java-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
@@ -226,6 +228,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/shubhneet-garg/Java-DSA/tree/master/0621-task-scheduler) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhneet-garg/Java-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
